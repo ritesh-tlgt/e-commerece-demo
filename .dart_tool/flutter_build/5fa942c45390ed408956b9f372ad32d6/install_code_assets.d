@@ -1,0 +1,1 @@
+ /home/ubuntu/AndroidStudioProjects/user_app/.dart_tool/flutter_build/5fa942c45390ed408956b9f372ad32d6/native_assets.json: 

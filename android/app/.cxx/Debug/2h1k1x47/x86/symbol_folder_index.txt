@@ -1,0 +1,1 @@
+/home/ubuntu/AndroidStudioProjects/user_app/build/app/intermediates/cxx/Debug/2h1k1x47/obj/x86
